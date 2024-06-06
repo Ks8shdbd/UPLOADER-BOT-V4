@@ -4,10 +4,13 @@ class Translation(object):
 
     START_TEXT = """
 👋 Hᴇʏ {} 
-sʜᴀʀᴇ ᴍᴇ ᴛʜᴇ ᴛᴇʀʙᴏx ʟɪɴᴋ ғʀᴏᴍ \n
-👉 @terabox_download_bot
-ᴀɴᴅ ᴄʜɪʟʟ ✅
-check before use ✅ 👉 t.me/ary_bots/10
+
+ⵊ Aᴍ Tᴇʟᴇɢʀᴀᴍ URL Uᴘʟᴏᴀᴅᴇʀ Bᴏᴛ.
+
+**Sᴇɴᴅ ᴍᴇ ᴀ ᴅɪʀᴇᴄᴛ ʟɪɴᴋ ᴀɴᴅ ɪ ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ɪᴛ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴀs ᴀ ꜰɪʟᴇ/ᴠɪᴅᴇᴏ**
+
+Usᴇ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ
+
 """
     HELP_TEXT = """
 ʟɪɴᴋ ᴛᴏ ᴍᴇᴅɪᴀ ᴏʀ ꜰɪʟᴇ
@@ -58,12 +61,15 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
 """
 
 
-
-
     START_BUTTONS = InlineKeyboardMarkup(
-        [
+        [[
         InlineKeyboardButton('⚙️ sᴇᴛᴛɪɴɢs', callback_data='OpenSettings')
-        ]
+        ],[
+        InlineKeyboardButton('❔ ʜᴇʟᴘ', callback_data='help'),
+        InlineKeyboardButton('👨‍🚒 ᴀʙᴏᴜᴛ', callback_data='about')
+        ],[
+        InlineKeyboardButton('⛔️ ᴄʟᴏsᴇ', callback_data='close')
+        ]]
     )
     HELP_BUTTONS = InlineKeyboardMarkup(
         [[
@@ -121,7 +127,7 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = "Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
     INVALID_UPLOAD_BOT_URL_FORMAT = "URL format is incorrect. make sure your url starts with either http:// or https://. You can set custom file name using the format link | file_name.extension"
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
-    FF_MPEG_RO_BOT_AD_VER_TISE_MENT = "Join :  \n For the list of Telegram bots. "
+    FF_MPEG_RO_BOT_AD_VER_TISE_MENT = "Join : @TGBotsCollectionbot \n For the list of Telegram bots. "
     EXTRACT_ZIP_INTRO_ONE = "Send a compressed file first, Then reply /unzip command to the file."
     EXTRACT_ZIP_INTRO_THREE = "Analyzing received file. ⚠️ This might take some time. Please be patient. "
     UNZIP_SUPPORTED_EXTENSIONS = ("zip", "rar")
@@ -132,5 +138,3 @@ sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
     FORCE_SUBSCRIBE_TEXT = "<code>Sorry Dear You Must Join My Updates Channel for using me 😌😉....</code>"
     BANNED_USER_TEXT = "<code>You are Banned!</code>"
     CHECK_LINK = "Pʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ʟɪɴᴋ ⌛"
-
-
