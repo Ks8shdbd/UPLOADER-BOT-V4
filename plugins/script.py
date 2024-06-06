@@ -7,8 +7,8 @@ class Translation(object):
 
 ⵊ Aᴍ Tᴇʟᴇɢʀᴀᴍ URL Uᴘʟᴏᴀᴅᴇʀ Bᴏᴛ.
 
-**ONLY USE FOR  @terabox_download_bot**
-⚠️read before using⚠️ @t.me/ary_bots/10
+**ONLY USE FOR \n 👉  @terabox_download_bot**
+⚠️read before using⚠️ \n 👉 t.me/ary_bots/10 ❤
 """
     HELP_TEXT = """
 ʟɪɴᴋ ᴛᴏ ᴍᴇᴅɪᴀ ᴏʀ ꜰɪʟᴇ
