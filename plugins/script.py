@@ -9,14 +9,54 @@ sʜᴀʀᴇ ᴍᴇ ᴛʜᴇ ᴛᴇʀʙᴏx ʟɪɴᴋ ғʀᴏᴍ \n
 ᴀɴᴅ ᴄʜɪʟʟ ✅
 check before use ✅ 👉 t.me/ary_bots/10
 """
+    HELP_TEXT = """
+ʟɪɴᴋ ᴛᴏ ᴍᴇᴅɪᴀ ᴏʀ ꜰɪʟᴇ
+
+➠ sᴇɴᴅ ᴀ ʟɪɴᴋ ꜰᴏʀ ᴜᴘʟᴏᴀᴅ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ꜰɪʟᴇ ᴏʀ ᴍᴇᴅɪᴀ.
+
+sᴇᴛ ᴛʜᴜᴍʙɴᴀɪʟ
+
+➠ sᴇɴᴅ ᴀ ᴘʜᴏᴛᴏ ᴛᴏ ᴍᴀᴋᴇ ɪᴛ ᴀs ᴘᴇʀᴍᴀɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ.
+
+ᴅᴇʟᴇᴛɪɴɢ ᴛʜᴜᴍʙɴᴀɪʟ
+
+➠ sᴇɴᴅ /delthumb ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴛʜᴜᴍʙɴᴀɪʟ.
+
+sᴇᴛᴛɪɴɢs
+
+➠ ᴄᴏɴғɪɢᴜʀᴇ ᴍʏ sᴇᴛᴛɪɴɢs ᴛᴏ ᴄʜᴀɴɢᴇ ᴜᴘʟᴏᴀᴅ ᴍᴏᴅᴇ
+
+sʜᴏᴡ ᴛʜᴜᴍʙɴᴀɪʟ
+
+➠ sᴇɴᴅ /showthumb ᴛᴏ ᴠɪᴇᴡ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ.
+ 
+"""
+    ABOUT_TEXT = """
+**Mʏ ɴᴀᴍᴇ** : [ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ ᴠ4](https://t.me/UploadLinkToFileBot)
+
+**Cʜᴀɴɴᴇʟ** : [NT Bᴏᴛs](https://t.me/NT_BOT_CHANNEL)
+
+**Sᴏᴜʀᴄᴇ** : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/LISA-KOREA/UPLOADER-BOT-V4)
+
+**Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ** : [NT Bᴏᴛs Sᴜᴘᴘᴏʀᴛ](https://t.me/NT_BOTS_SUPPORT)
+
+**Dᴀᴛᴀʙᴀsᴇ** : [MᴏɴɢᴏDB](https://cloud.mongodb.com)
+
+**Lᴀɴɢᴜᴀɢᴇ :** [Pʏᴛʜᴏɴ 3.12.3](https://www.python.org/)
+
+**Fʀᴀᴍᴇᴡᴏʀᴋ :** [ᴘʏʀᴏɢᴀᴍ 2.0.106](https://docs.pyrogram.org/)
+
+**Dᴇᴠᴇʟᴏᴘᴇʀ :** @LISA_FAN_LK
+"""
 
 
-    PROGRESS = """ 
+    PROGRESS = """
 🏎️ Sᴘᴇᴇᴅ : {3}/s\n\n
 ✅ Dᴏɴᴇ : {1}\n\n
 🟰 Tᴏᴛᴀʟ sɪᴢᴇ  : {2}\n\n
 ⏳ Tɪᴍᴇ ʟᴇғᴛ : {4}\n\n
 """
+
 
 
 
