@@ -8,7 +8,7 @@ sʜᴀʀᴇ ᴍᴇ ᴛʜᴇ ᴛᴇʀʙᴏx ʟɪɴᴋ ғʀᴏᴍ \n
 👉 @terabox_download_bot
 ᴀɴᴅ ᴄʜɪʟʟ ✅
 check before use ✅ 👉 t.me/ary_bots/10
-""
+"""
 
 
     PROGRESS = """ 
