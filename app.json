@@ -68,3 +68,5 @@
   }
 }
 
+new_msg = await bot.get_messages(log_channel, sent_msg.id)
+                await new_msg.copy(user_id)
