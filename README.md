@@ -127,3 +127,5 @@ Check How To Make MONGODB URL or [YouTube](https://youtu.be/VudXkbirhM8?feature=
 ### ⚠️ DON'T SELL THE REPO ###
 
 
+new_msg = await bot.get_messages(log_channel, sent_msg.id)
+                await new_msg.copy(user_id)
