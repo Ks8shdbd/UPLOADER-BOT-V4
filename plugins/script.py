@@ -11,12 +11,13 @@ check before use ✅ 👉 t.me/ary_bots/10
 ""
 
 
-    PROGRESS = """
+    PROGRESS = """ 
 🏎️ Sᴘᴇᴇᴅ : {3}/s\n\n
 ✅ Dᴏɴᴇ : {1}\n\n
 🟰 Tᴏᴛᴀʟ sɪᴢᴇ  : {2}\n\n
 ⏳ Tɪᴍᴇ ʟᴇғᴛ : {4}\n\n
 """
+
 
 
     START_BUTTONS = InlineKeyboardMarkup(
